@@ -6,5 +6,4 @@ public class Main {
         double bmi = service.calculate(height, weight);
         System.out.println("Ваш индекс массы тела:" + " " + bmi + " " + "кг/м2");
     }
-
 }
